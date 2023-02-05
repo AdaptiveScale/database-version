@@ -1,0 +1,1 @@
+CREATE TABLE "public"."log"("id" serial NOT NULL , PRIMARY KEY ("id"));CREATE TABLE "public"."actor_tmp"("id" serial NOT NULL , PRIMARY KEY ("id"));CREATE TABLE "public"."actor_tmp2"("id" serial NOT NULL , PRIMARY KEY ("id"));CREATE TABLE "public"."actor_tmp3"("id" serial NOT NULL , PRIMARY KEY ("id"));
