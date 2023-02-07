@@ -1,0 +1,1 @@
+CREATE TABLE "public"."newActors"("actorID" serial NOT NULL , PRIMARY KEY ("actorID"));
